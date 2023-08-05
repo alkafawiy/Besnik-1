@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5rem" height="5rem" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2550 3300"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#0093DD;stroke-width:20;stroke-linecap:round;stroke-linejoin:round}
+    .str1 {stroke:#0093DD;stroke-width:20;stroke-linecap:round;stroke-linejoin:round}
+    .str0 {stroke:#0093DD;stroke-width:20;stroke-linecap:round;stroke-linejoin:round}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_110948816">
+   <g>
+    <g>
+     <path id="_110768656" class="fil0 str0" d="M848.943 1656c805.702,0 805.702,0 805.702,0"/>
+    </g>
+    <g>
+     <polyline id="_110767144" class="fil0 str1" points="1376.24,1936.72 1656.96,1656 1376.24,1375.28 "/>
+    </g>
+   </g>
+   <g>
+    <path class="fil0 str2" d="M1275 1149.26c276.506,0 500.743,224.237 500.743,500.743 0,276.504 -224.237,500.741 -500.743,500.741 -276.504,0 -500.741,-224.237 -500.741,-500.741 0,-276.506 224.237,-500.743 500.741,-500.743z"/>
+   </g>
+  </g>
+ </g>
+</svg>
